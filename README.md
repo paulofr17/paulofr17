@@ -1,6 +1,6 @@
 ## Hi I'm Paulo 👋
 
-👋 Welcome to my profile! I'm a Full Stack Developer based in Portugal.
+👋 Welcome to my profile! I'm a Full Stack / Salesforce Developer based in Portugal.
 
 💼 Currently, I'm working in the Salesforce ecosystem, but always on the lookout for new challenges.
 
