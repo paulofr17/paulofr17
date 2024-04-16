@@ -2,7 +2,7 @@
 
 👋 Welcome to my profile! I'm a Full Stack / Salesforce Developer based in Portugal.
 
-💼 Currently, I'm working in the Salesforce ecosystem, but always on the lookout for new challenges.
+💼 Currently, I'm working in the Salesforce ecosystem, but always looking for new challenges.
 
 🚀 I'm passionate about continuous learning and growth, so you'll often find me diving into side projects to explore new technologies.
 
